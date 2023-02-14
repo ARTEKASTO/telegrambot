@@ -1,6 +1,6 @@
 # Tool bot airdrop coin
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/ARTEKASTO/telegrambot"> <https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku img src="><" width="220" height="38.45"/></a></p>
+
 
 ## Setting ENVIRONMENT_VARS
 ```
@@ -21,3 +21,5 @@ $ yarn logs
 ```
 $ yarn stop
 ```
+
+<p><a href="https://heroku.com/deploy?template=https://github.com/ARTEKASTO/telegrambot"> <https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku img src="><" width="220" height="38.45"/></a></p>
